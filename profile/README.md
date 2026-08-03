@@ -2,12 +2,11 @@
 
 Seoul National University Formula Student Team.
 
-## Public repositories
+## Public resources
 
-| Repository | Purpose |
+| Resource | Description |
 | --- | --- |
-| [website](https://github.com/SNU-Formula/website) | Official team website |
-| [brand-kit](https://github.com/SNU-Formula/brand-kit) | Approved logos and public brand guidance |
+| [Website source](https://github.com/SNU-Formula/website) | Official team website code and public assets |
+| [Brand kit](https://github.com/SNU-Formula/brand-kit) | Approved SNU Formula logos and brand guidance |
 
-Internal engineering, operations, presentation, and sponsorship material is kept in private repositories.
-
+Engineering, operations, sponsorship, and design working files are available only to authorized team members.
